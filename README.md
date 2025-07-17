@@ -79,19 +79,19 @@ bash
 Copy
 Edit
 npm start
-# ✨ Future Roadmap
-# 🔐 Add user authentication (Firebase or similar) to sync data across devices
+✨ Future Roadmap
+🔐 Add user authentication (Firebase or similar) to sync data across devices
 
-# 🌐 Integrate backend API with AI sentiment analysis (e.g., OpenAI GPT)
+🌐 Integrate backend API with AI sentiment analysis (e.g., OpenAI GPT)
 
-# ☁️ Deploy to Vercel or Netlify for live demo access
+☁️ Deploy to Vercel or Netlify for live demo access
 
-# 📩 Email reminders or automatic affirmations via backend scheduling
+📩 Email reminders or automatic affirmations via backend scheduling
 
-# ❤️ Why MindMate
+❤️ Why MindMate
 This project shows both empathy and technical skills: emotion tracking, interactive UI, data visualization, and modular design. It's a strong highlight for both your resume and portfolio.
 
-# 👤 Author
+👤 Author
 Mayank (cyber-cell) • GitHub: Mayank-cyber-cell
 
 # 📄 License
