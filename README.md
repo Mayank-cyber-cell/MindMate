@@ -7,7 +7,7 @@
 ## 🚀 Features
 
 - **Mood Tracker**  
-  Log daily mood using emojis and notes. Mood history is visualized with a smooth Chart.js line chart.
+  Log daily mood using emojis & notes. Mood history is visualized with a smooth Chart.js line chart.
 
 - **Journal & Sentiment Analysis**  
   Write daily entries and get instant emotion feedback (Positive/Neutral/Negative) powered by simple sentiment logic or should you integrate an AI API later.
