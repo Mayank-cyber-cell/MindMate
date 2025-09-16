@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Featuress
+## 🚀 Features
 
 - **Mood Tracker**  
   Log daily mood using emojis & notes. Mood history is visualized with a smooth Chart.js line chart.
