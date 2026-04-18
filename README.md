@@ -1,7 +1,7 @@
 # 🌿 MindMate – Your Mental Health Companion
 
 **MindMate** is a calm and engaging frontend app built with **React** and **TailwindCSS** to help users care for their mental well-being.
-
+ 
 ---
 
 ## 🚀 Features
