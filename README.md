@@ -1,6 +1,6 @@
 # 🌿 MindMate – Your Mental Health Companion
  
-**MindMate** is a calm and engaging frontend app built with **React** and **TailwindCSS** to help users care for their mental well-being.
+**MindMate** is a calm and engaging frontend app built with **React** and **TailwindCSS** to help users care for their mental well-being. 
    
 ---      
  
@@ -13,7 +13,7 @@
   Write daily entries and get instant emotion feedback (Positive/Neutral/Negative) powered by simple sentiment logic or should you integrate an AI API later.
 
 - **Anonymous Vent Space**  
-  A safe, anonymous place to express feelings – posts are auto-deleted after 10 minutes for privacy.
+  A safe, anonymous place to express feelings  posts are auto deleted after 10 minutes for privacy.
 
 - **Daily Affirmations**  
   Receive a new uplifting message every day, with a history of past affirmations saved in localStorage.
