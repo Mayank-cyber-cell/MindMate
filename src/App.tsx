@@ -11,7 +11,7 @@ import BreathingExercise from './components/BreathingExercise';
 import Profile from './components/Profile';
 import Settings from './components/Settings';
 import HelpSupport from './components/HelpSupport';
-
+ 
 export type TabType = 'mood' | 'journal' | 'vent' | 'affirmations' | 'breathing';
 export type ViewType = 'main' | 'profile' | 'settings' | 'help';
 
