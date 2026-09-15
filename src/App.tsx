@@ -18,7 +18,7 @@ export type ViewType = 'main' | 'profile' | 'settings' | 'help';
 function App() {
   const [activeTab, setActiveTab] = useState<TabType>('mood');
   const [darkMode, setDarkMode] = useState(() => {
-    // Check for saved dark mode preference or system preference
+
     const savedDarkMode = localStorage.getItem('darkMode');
     if (savedDarkMode !== null) {
       return savedDarkMode === 'true';
