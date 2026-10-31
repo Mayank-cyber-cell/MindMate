@@ -1,7 +1,7 @@
 # 🌿 MindMate – Your Mental Health Companion 
   
 **MindMate** is a calm and engaging frontend app built with **React** and **TailwindCSS** to help users care for their mental well-being. 
-           
+            
 ---           
   
 ## 🚀 Features
@@ -22,7 +22,7 @@
   Interactive breathing circle animation with timer phases (Inhale/Hold/Exhale), designed to be calming and easy to follow.
 
 - **Dark Mode**  
-  Easily switch between light and dark themes, with preference saved between sessions.
+  Easily switch between light and dark themes, with preference saved between sessions. 
 
 ---
 
